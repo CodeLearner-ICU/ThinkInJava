@@ -1,0 +1,8 @@
+
+Isquid:S1481"&Remove this unused "i" local variable.(öÿßõÿÿÿÿÿ8Û³¿æŞ-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ê‰Õ»8‰¾¦æŞ-
+Xsquid:S1854"5Remove this useless assignment to local variable "i".(öÿßõÿÿÿÿÿ8Û³¿æŞ-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô–ìÔüÿÿÿÿ8”Æ æŞ-
+Esquid:S1214""Move constants to a class or enum.( ¤§âşÿÿÿÿ8”Æ æŞ-

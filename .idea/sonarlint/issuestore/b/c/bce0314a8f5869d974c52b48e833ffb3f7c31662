@@ -1,0 +1,9 @@
+
+Xsquid:S1161	":Add the "@Override" annotation above this method signature(ÈË8‚£½åŞ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨ÿÌúÿÿÿÿ8†Ï¿åŞ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Ï‰øÿÿÿÿ8‘¦¼åŞ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€×ä“ÿÿÿÿÿ8àç¿åŞ-
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(áÅÁ8‚£½åŞ-

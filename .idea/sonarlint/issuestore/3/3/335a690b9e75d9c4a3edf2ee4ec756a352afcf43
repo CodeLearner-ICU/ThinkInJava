@@ -1,0 +1,6 @@
+
+`"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(­§σωÿÿÿÿ
+Bsquid:S1174"&Make this finalize() method protected.(­§σωÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ«‰
+wsquid:CallToDeprecatedMethod"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§σωÿÿÿÿ

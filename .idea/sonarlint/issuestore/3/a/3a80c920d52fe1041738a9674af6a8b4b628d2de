@@ -1,0 +1,10 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍìáÅşÿÿÿÿ8¾°ÎäŞ-
+Asquid:S1659"#Declare "cFlat" on a separate line.(‹¥İğ8üÙÊäŞ-
+Ksquid:S1172"(Remove this unused method parameter "n".(º…òáúÿÿÿÿ8¾°ÎäŞ-
+Fsquid:S1068")Remove this unused "value" private field.(ÉŠH8µúÄäŞ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒØéÓ8ü¶ÒäŞ-
+]squid:S1161":Add the "@Override" annotation above this method signature(º…òáúÿÿÿÿ8‹âÑäŞ-
+Gsquid:S1659"$Declare "cSharp" on a separate line.(ä¶ìæÿÿÿÿÿ8üÙÊäŞ-

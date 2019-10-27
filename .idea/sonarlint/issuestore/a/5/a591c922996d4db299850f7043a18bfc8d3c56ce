@@ -1,0 +1,15 @@
+
+Fsquid:S1659"#Declare "right" on a separate line.(ÕÁ¨åøÿÿÿÿ8¶Ñ•ÇŞ-
+Œ"squid:ClassVariableVisibilityCheck"RMake engine a static final constant or non-public and provide accessors if needed.(¼Ë‡ûÿÿÿÿ8²“ÇŞ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†Šÿ8Åø†ÇŞ-
+Œ"squid:ClassVariableVisibilityCheck"RMake window a static final constant or non-public and provide accessors if needed.(òÍ˜Ûşÿÿÿÿ8ø»ÇŞ-
+‹"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(ÕÁ¨åøÿÿÿÿ8¶Ñ•ÇŞ-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åíİåıÿÿÿÿ8Ûê„ÇŞ-
+†"squid:ClassVariableVisibilityCheck"QMake wheel a static final constant or non-public and provide accessors if needed.(¾ÆªÈ8²“ÇŞ-
+Š"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ÕÁ¨åøÿÿÿÿ8…ô”ÇŞ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌŒ­õ8¬¦ŒÇŞ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú±Ë¡8ø»ÇŞ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éí–µ8ø»ÇŞ-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·­ğœûÿÿÿÿ8¬¦ŒÇŞ-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èş¯™ùÿÿÿÿ8Åø†ÇŞ-
+¤squid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚’‰¿úÿÿÿÿ8ò§‰ÇŞ-

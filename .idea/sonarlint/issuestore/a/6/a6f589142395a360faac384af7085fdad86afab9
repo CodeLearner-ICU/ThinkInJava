@@ -1,0 +1,22 @@
+
+Ssquid:S1854"5Remove this useless assignment to local variable "x".(…€ÚÁ8¯Ù¿¾Ş-
+Fsquid:S11721"(Remove this unused method parameter "i".(±á8ıÚ¡¾Ş-
+Ksquid:S1172W"(Remove this unused method parameter "i".(Üçæ¬úÿÿÿÿ8ùç±¾Ş-
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ğğÔ¨úÿÿÿÿ8š†¯¾Ş-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(øß›ëûÿÿÿÿ8Âé“¾Ş-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê²¬Ó8‚ï¼¾Ş-
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(á¤¾8ùç±¾Ş-
+Ksquid:S1172"(Remove this unused method parameter "i".(å¢…Øúÿÿÿÿ8Âé“¾Ş-
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Æƒıÿÿÿÿ8‘²«¾Ş-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(®ÇÉœ8ıÚ¡¾Ş-
+Dsquid:S1481"&Remove this unused "x" local variable.(…€ÚÁ8¯Ù¿¾Ş-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(‘Ú¢Şüÿÿÿÿ8Çœ¨¾Ş-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ó‘á8©°˜¾Ş-

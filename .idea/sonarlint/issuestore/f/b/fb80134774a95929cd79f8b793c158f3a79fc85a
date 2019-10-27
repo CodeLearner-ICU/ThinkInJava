@@ -1,0 +1,19 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(£’¤ãýÿÿÿÿ8žêÜ¼Þ-
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(±åÉø8øòÚ¼Þ-
+Csquid:S2129*" Remove this "String" constructor(ýÈÁ˜øÿÿÿÿ8çó—¼Þ-
+]squid:S1161
+":Add the "@Override" annotation above this method signature(Œðú®ÿÿÿÿÿ8ãÈ•¼Þ-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì›ß8°÷Ó¼Þ-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(©ÌÄ¹ýÿÿÿÿ8ŽËÛ¼Þ-
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8çó—¼Þ-
+Msquid:S1444&"*Make this "public static name" field final(£Ó‚¥ùÿÿÿÿ8’æà¼Þ-
+Š"squid:ClassVariableVisibilityCheck&"PMake name a static final constant or non-public and provide accessors if needed.(£Ó‚¥ùÿÿÿÿ8’æà¼Þ-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(×ð†¢8•Î¼Þ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨íøÿÿÿÿ8•áØ¼Þ-

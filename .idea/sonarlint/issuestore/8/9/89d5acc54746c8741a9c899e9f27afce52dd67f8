@@ -1,0 +1,9 @@
+
+Esquid:S1172"(Remove this unused method parameter "f".(ï€8¨“ãÅŞ-
+Ksquid:S1172"(Remove this unused method parameter "c".(á†ñäûÿÿÿÿ8µÃßÅŞ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³˜„±8Ó©çÅŞ-
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.( üúÕşÿÿÿÿ8¨“ãÅŞ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÖ›ùüÿÿÿÿ8µÃßÅŞ-
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(Ê÷ıÛüÿÿÿÿ8±†íÅŞ-

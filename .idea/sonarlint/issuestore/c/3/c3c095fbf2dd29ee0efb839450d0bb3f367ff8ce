@@ -1,0 +1,7 @@
+
+Isquid:S1481%"&Remove this unused "c" local variable.(çœ·Ÿıÿÿÿÿ8Ë¼Ñ–ß-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ïèİ8Öõ¾–ß-
+Dsquid:S1481&"&Remove this unused "d" local variable.(ª™Ù‰8ˆ‘Ó–ß-
+Xsquid:S1854%"5Remove this useless assignment to local variable "c".(çœ·Ÿıÿÿÿÿ8Ë¼Ñ–ß-
+Ssquid:S1854&"5Remove this useless assignment to local variable "d".(ª™Ù‰8ˆ‘Ó–ß-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8ˆùß-

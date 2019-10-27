@@ -1,0 +1,15 @@
+
+Msquid:S1444"*Make this "public static test" field final(Ô»ùÅıÿÿÿÿ8ÿÄ•½à-
+Isquid:S1481*"&Remove this unused "c" local variable.(Üº­áüÿÿÿÿ8‹©ƒ½à-
+Dsquid:S1481+"&Remove this unused "d" local variable.(ßµ‚ÿ8‹©ƒ½à-
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8Ç¹…½à-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı›¶8ÈÍ‡½à-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ­¶°8‰¦™½à-
+Š"squid:ClassVariableVisibilityCheck"PMake test a static final constant or non-public and provide accessors if needed.(Ô»ùÅıÿÿÿÿ8ÿÄ•½à-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ïèİ8Áñä¼à-
+Ssquid:S1854+"5Remove this useless assignment to local variable "d".(ßµ‚ÿ8‹©ƒ½à-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ùÒ£«ûÿÿÿÿ8õ„Ÿ½à-
+Xsquid:S1854*"5Remove this useless assignment to local variable "c".(Üº­áüÿÿÿÿ8‹©ƒ½à-

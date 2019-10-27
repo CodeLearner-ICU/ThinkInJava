@@ -1,0 +1,9 @@
+
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(»¬Â8ÅË€¾Ş-
+Isquid:S1481"&Remove this unused "c" local variable.(§‚âÌøÿÿÿÿ8±ùƒ¾Ş-
+U
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ö‘´C8—à‚¾Ş-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¹ñ8½‹ÿ½Ş-
+Xsquid:S1854"5Remove this useless assignment to local variable "c".(§‚âÌøÿÿÿÿ8±ùƒ¾Ş-

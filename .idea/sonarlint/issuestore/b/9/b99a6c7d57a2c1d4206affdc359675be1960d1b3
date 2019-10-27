@@ -1,0 +1,18 @@
+
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(µó³Øûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶æ®
+wsquid:CallToDeprecatedMethod)"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ
+qsquid:S1845%"ZRename method "f" to prevent any misunderstanding/clash with field "f" defined on line 14.(÷¹’å
+`"squid:ObjectFinalizeOverridenCheck)"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ
+Rsquid:S26962"6Make the enclosing method "static" or remove this set.(äÒÎéûÿÿÿÿ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ŒÍŒÜÿÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Á¿Åõıÿÿÿÿ
+Lsquid:S26964"6Make the enclosing method "static" or remove this set.(Áå©(
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(éöÏ§üÿÿÿÿ
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ºÀşÕÿÿÿÿÿ
+Msquid:S2696,"6Make the enclosing method "static" or remove this set.(²‹×œ

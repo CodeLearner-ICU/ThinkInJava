@@ -1,0 +1,10 @@
+
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(îÌùĞ8•“ûÇŞ-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ôç¨ëûÿÿÿÿ8°‡ÈŞ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜòñŒ8‹–ÈŞ-
+Dsquid:S1170
+"!Make this final field static too.(÷¯¨¡úÿÿÿÿ8˜÷õÇŞ-
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(ò³¨ûıÿÿÿÿ8ÖùÇŞ-
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(îÌùĞ8•“ûÇŞ-

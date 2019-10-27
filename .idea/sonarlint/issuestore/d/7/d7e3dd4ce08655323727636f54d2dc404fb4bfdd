@@ -1,0 +1,5 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(î É•8…­§ºŞ-
+"squid:ClassVariableVisibilityCheck"VMake publicData a static final constant or non-public and provide accessors if needed.(¬ßşÿÿÿÿ8«ŒºŞ-
+Msquid:S1068"/Remove this unused "privateData" private field.(ÚŒ¶½8‘¹œºŞ-
